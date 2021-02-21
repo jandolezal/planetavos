@@ -8,7 +8,7 @@ SITEURL = 'http://127.0.0.1:8000'
 PATH = 'content'
 
 TIMEZONE = 'Europe/Prague'
-
+LOCALE = 'cs_CZ'
 DEFAULT_LANG = 'cs'
 
 DELETE_OUTPUT_DIRECTORY = True
